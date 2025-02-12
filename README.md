@@ -4,7 +4,6 @@ A simple **online notepad** that automatically saves your notes in **local stora
 ✅ **Auto-save** functionality  
 ✅ **Dark mode toggle** 🌙  
 ✅ **New note & delete options**  
-✅ **GitHub integration button**  
 
 ### **How to Use**  
 1. Start typing in the notepad — your text is **saved automatically**.  
