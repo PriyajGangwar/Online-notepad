@@ -24,4 +24,4 @@ if (localStorage.getItem("darkMode") === "enabled") {
     document.body.classList.add("dark-mode");
 }
 
-document.getElementById("github-link").href = "https://github.com/YOUR_GITHUB_REPO"; // Replace with your GitHub repo link
+document.getElementById("github-link").href = "https://github.com/PriyajGangwar/Online-notepad"; 
