@@ -10,8 +10,7 @@ A simple **online notepad** that automatically saves your notes in **local stora
 1. Start typing in the notepad — your text is **saved automatically**.  
 2. Click **🆕 New** to clear the note (with confirmation).  
 3. Click **🗑 Delete** to remove the note instantly.  
-4. Use **🌙 Dark Mode** to switch themes.  
-5. View the project on **GitHub** using the provided button.  
+4. Use **🌙 Dark Mode** to switch themes.   
 
 ### **Technologies Used**  
 - **HTML** (structure)  
